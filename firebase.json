@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "coderr-c95f8",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

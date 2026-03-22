@@ -1,16 +1,16 @@
 const GUEST_LOGINS = {
     customer : {
-        username: 'andrey',
-        password: 'asdasd'
+        username: 'Andrey',
+        password: 'password'
     },
     business : {
-        username: 'kevin',
-        password: 'asdasd24'
+        username: 'Marcel',
+        password: 'password'
     }
 }
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api/';
-const STATIC_BASE_URL = 'http://127.0.0.1:8000/';
+const API_BASE_URL = 'https://coderr-backend.marcelgoehn.de/api/';
+const STATIC_BASE_URL = 'https://coderr-backend.marcelgoehn.de/';
 
 
 const LOGIN_URL = 'login/';
